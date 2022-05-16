@@ -2,7 +2,7 @@
 CSE4048 Deep Learning in Hanyang Univ.
 
 # General digit-classifier
-This is a term project to make a general digit-classifier using PyTorch.  
+This is a term project to make a general digit-classifier using PyTorch. ([report](https://hy-kiera.gitbook.io/hayeong/general-digit-classifier))
 
 ## Dataset
 The base dataset contains both 70,000 MNIST images and 50 printed digits images. I applied some tricks to them in order to augment data. Plus, I used 60,000 pattered MNIST images from HY-IN.  
